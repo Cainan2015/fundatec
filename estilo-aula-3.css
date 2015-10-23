@@ -1,0 +1,86 @@
+body{
+    font-family: arial, sans-serif;
+    margin: 0px;
+    position: relative;
+}
+
+div {
+        padding: 10px;
+}
+.cabecalho{
+    background-color: #99FF33;
+    width: 100%;
+    min-width: 970px;
+    height: 10%;
+    min-height: 80px;
+    
+}
+
+.menu{
+    position: relative;
+    float: left;
+    background-color: #CCFF66;
+    width: 10%;
+    min-width: 120px;
+    height: 80%;
+    min-height: 640px;
+}
+
+.conteudo{
+    position: relative;
+    float: left;
+    width: 55%;
+    min-width: 60px;
+    height: 80%;
+    min-height: 640px;
+}
+
+.anuncios{
+    position: relative;
+    float: right;
+    background: #FFFFCC;
+    width: 25%;
+    min-width: 250px;
+    height: 80%;
+    min-height: 640px;
+}
+
+.rodape{
+    position: relative;
+    clear: left;
+    width: 100%;
+    min-width: 970px;
+    height: 10%;
+    min-height: 80px;
+    background-color: gray;
+}
+
+h1 {
+    font-family: monospace;
+    color: blue;
+    font-size: 36px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
+p {
+    text-indent: 15px;
+    text-align: justify;
+}
+
+.atencao{
+    color: #B2B200;
+    font-weight: bold;
+}
+
+.citacao{
+    font-weight: bold;
+    color: green;
+    background-color: yellow;
+}
+
